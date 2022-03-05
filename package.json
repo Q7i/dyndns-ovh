@@ -1,0 +1,12 @@
+{
+    "name": "dyndns-ovh",
+    "version": "1.0.0",
+    "main": "changePublicIP.js",
+    "repository": "https://github.com/Q7i/dyndns-ovh",
+    "author": "Q7I",
+    "license": "MIT",
+    "dependencies": {
+      "node-fetch": "2.3.0",
+      "ovh": "^2.0.2"
+    }
+  }
